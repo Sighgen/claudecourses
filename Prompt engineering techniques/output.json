@@ -1,0 +1,65 @@
+[
+  {
+    "output": "# Nutrition Plan for Boxing Competition Prep\n\n## Daily Calorie Target: 2000 calories\n\nThis is a **significant deficit** for someone your size (BMI ~23.7), so prioritize nutrient density and performance.\n\n## Macronutrient Breakdown\n\n- **Protein: 150-175g** (30%) \u2192 Preserve muscle during deficit\n- **Carbs: 200-225g** (40%) \u2192 Fuel for training\n- **Fats: 55-65g** (25%) \u2192 Hormone health & satiety\n\n## Recommended Foods\n\n### Proteins\n- Chicken breast, lean beef, turkey\n- Fish (salmon, tuna, cod)\n- Eggs, Greek yogurt\n- Cottage cheese, low-fat milk\n- Legumes (lentils, chickpeas, beans)\n- Protein powder\n\n### Carbohydrates\n- Oats, brown rice, quinoa\n- Sweet potatoes, regular potatoes\n- Whole grain bread/pasta\n- Fruits (bananas, berries, apples)\n\n### Healthy Fats\n- Olive oil, avocado\n- Nuts, seeds\n- Fatty fish\n\n### Vegetables\n- All types (leafy greens, broccoli, peppers)\n- Minimal calorie impact, high nutrients\n\n## Important Notes\n\n\u26a0\ufe0f **2000 calories is tight for your stats.** Consult a sports nutritionist to ensure adequate performance and recovery for boxing training.\n\nWhat's your current training volume?",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "75 kg",
+        "goal": "Maintain current weight while preparing for boxing competition with 2000 calorie daily limit",
+        "restrictions": "No shellfish, no pork"
+      },
+      "solution_criteria": [
+        "Meal plan totals approximately 2000 calories across all meals and snacks",
+        "Includes 4-5 eating occasions (breakfast, lunch, dinner, and 1-2 snacks) distributed throughout the day",
+        "Respects dietary restrictions (no shellfish, no pork)",
+        "Emphasizes protein-rich foods suitable for athletic performance and recovery"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with an athlete in a weight-class sport (boxer) needing a calorie-controlled meal plan that maintains performance while meeting specific daily caloric targets for weight management"
+    },
+    "score": 2,
+    "reasoning": "While the solution demonstrates solid nutritional knowledge and appropriately addresses the athlete's needs, it fundamentally fails to meet the mandatory requirements. The task explicitly demands a meal plan with specific meals, portions, timing, and a daily caloric total. The solution provides only a framework and food recommendations without constructing an actual day's worth of meals. This is a structural failure to deliver what was requested, regardless of the quality of the nutritional guidance provided."
+  },
+  {
+    "output": "# Marathon Training Nutrition Plan\n\n## Daily Calorie & Macro Targets\n- **Daily calories**: ~2,800-3,200 (depending on training intensity)\n- **Carbs**: 55-60% (~420-480g) - prioritize around workouts\n- **Protein**: 15-20% (~105-160g)\n- **Fat**: 20-25% (~62-89g)\n\n---\n\n## Pre-Workout (2-3 hours before)\n- Oatmeal with banana and honey\n- Toast with jam and peanut butter alternative (tahini)\n- Rice cakes with avocado\n- Pasta with light tomato sauce\n\n## During Workout (long runs >90 min)\n- Sports drinks (4-8% carbs)\n- Energy gels or chews\n- Dates or dried fruit\n\n## Post-Workout (within 30-60 min)\n- Chocolate milk or protein smoothie (banana + plant protein powder)\n- Pasta with vegetable sauce\n- Rice bowl with beans and vegetables\n- Whole grain bread with hummus\n\n---\n\n## Key Carb Sources (Vegetarian)\n- Whole grains: oats, quinoa, brown rice, whole wheat bread/pasta\n- Legumes: lentils, chickpeas, beans (excellent protein too)\n- Fruits: bananas, berries, dates\n- Vegetables: sweet potatoes, corn\n\n## Protein Sources (No Nuts)\n- Legumes, tofu, tempeh\n- Dairy: Greek yogurt, cheese, milk (if tolerated)\n- Seeds: pumpkin, sunflower, sesame\n- Plant-based protein powder\n\nWould you like specific meal ideas or a sample day plan?",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "68 kg",
+        "goal": "Marathon training - maximize carbohydrate intake with strategic pre/post-workout nutrition timing",
+        "restrictions": "Vegetarian, no nuts"
+      },
+      "solution_criteria": [
+        "Meal plan covers one full day with breakfast, lunch, dinner, and snacks",
+        "Includes pre-workout and post-workout meals/snacks with appropriate timing and carbohydrate focus",
+        "All meals align with vegetarian diet and exclude nuts",
+        "Carbohydrate-heavy composition suitable for endurance athlete training"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a high-performance endurance athlete (marathon runner) requiring high carbohydrate intake and specific pre/post-workout nutrition timing"
+    },
+    "score": 2,
+    "reasoning": "The solution violates all three mandatory requirements. While it provides useful nutritional guidance and macro targets, it fails to deliver: (1) a complete one-day meal plan with specific timing for breakfast, lunch, dinner, and snacks, (2) exact foods with portions and quantities, and (3) a calculated daily caloric total with macronutrient breakdown. The solution reads as a template or framework rather than an actual meal plan. The closing question confirms the author recognizes the incompleteness. For a task explicitly requesting a '1 day meal plan,' providing only categories and general suggestions without a concrete daily schedule is a fundamental failure to meet the core requirement."
+  },
+  {
+    "output": "# Nutrition Plan for Vegan Weightlifter\n\n## Caloric Intake\n- **Maintenance:** ~2,400-2,600 kcal/day\n- **For strength gains:** 2,700-3,000 kcal/day (slight surplus)\n\n## Macronutrient Targets\n\n| Macro | Daily Target | Notes |\n|-------|--------------|-------|\n| **Protein** | 130-165g (1.6-2g/kg) | Critical for muscle repair |\n| **Carbs** | 380-450g (4.5-5.5g/kg) | Fuel for intense training |\n| **Fat** | 75-90g (0.9-1.1g/kg) | Essential for hormones |\n\n## Protein-Rich Vegan Foods (Priority)\n\n**Legumes & Soy:**\n- Tofu & tempeh (15-25g protein/serving)\n- Lentils & chickpeas (18g/cooked cup)\n- Edamame (11g/cup)\n- Hemp seeds (10g/3 tbsp)\n\n**Grains & Others:**\n- Quinoa, buckwheat, nutritional yeast\n- Pea protein powder (25g/scoop)\n\n## Sample Daily Structure\n\n- **Breakfast:** Oatmeal + tofu scramble + nuts\n- **Snack:** Hummus + vegetables + pita\n- **Lunch:** Lentil pasta + tempeh + olive oil\n- **Pre-workout:** Banana + peanut butter\n- **Post-workout:** Protein shake + carbs\n- **Dinner:** Quinoa bowl + chickpeas + vegetables\n\n## Key Supplements\n- **B12** (vegan requirement)\n- **Creatine monohydrate** (supports strength)\n- **Vitamin D** (if limited sun exposure)\n- Consider: Omega-3 (algae-based)\n\n**Would you like a detailed meal plan or specific recipe ideas?**",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178",
+        "weight": "82",
+        "goal": "Strength and power development for weightlifting competition",
+        "restrictions": "Vegan diet"
+      },
+      "solution_criteria": [
+        "Meal plan covers full day with 4-5 meals strategically timed around training",
+        "Meets minimum 1.6g protein per kg bodyweight (131g+) from vegan sources only",
+        "Includes pre-training and post-training nutrition with appropriate macronutrient timing",
+        "Compact format with realistic, practical meal suggestions"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a strength/power athlete (weightlifter) with dietary restrictions (vegan) requiring high protein from alternative sources and strategic meal timing around training"
+    },
+    "score": 3,
+    "reasoning": "The solution fails to meet mandatory requirements. While it provides excellent foundational information (caloric ranges, macro targets, protein sources, and supplementation), it does not deliver what was explicitly requested: a compact 1-day meal plan with exact foods, portions, and timing. The 'Sample Daily Structure' is merely a framework with meal categories, not an actual meal plan. There is no daily caloric total provided for the plan, and no macronutrient breakdown showing that the suggested meals actually meet the stated targets (e.g., 130-165g protein). The solution ends with 'Would you like a detailed meal plan...' which indicates the actual meal plan was not provided. This is a template/guide rather than the requested deliverable."
+  }
+]
